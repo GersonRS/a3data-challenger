@@ -14,7 +14,7 @@ Este projeto demonstra como treinar e implantar um modelo de machine learning pa
 - [Usage](#usage)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Troubleshooting](#troubleshooting)
-- [Contributions](#contributions)
+- [Contributions](#contribuições)
 - [License](#license)
 - [Contato](#contato)
 - [Acknowledgments](#acknowledgments)
@@ -189,11 +189,22 @@ O projeto tem a seguinte estrutura de diretórios:
 
 ## Troubleshooting
 
-Se você encontrar problemas ou tiver dúvidas sobre o projeto, consulte a seção "Contributions" para obter informações sobre como relatar problemas ou fazer perguntas.
+Se você encontrar problemas ou tiver dúvidas sobre o projeto, consulte a seção **[Contribuições](#contribuições)** para obter informações sobre como relatar problemas ou fazer perguntas.
 
-## Contributions
+## Contribuições
 
-Contribuições são bem-vindas! Se você encontrar um problema ou tiver uma sugestão para melhorar o projeto, sinta-se à vontade para abrir uma issue ou criar uma solicitação pull.
+Contribuições são bem-vindas! Sinta-se à vontade para criar uma solicitação pull com melhorias, correções de bugs ou novos recursos. As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+
+Para contribuir com o projeto, siga os passos abaixo:
+
+1. Bifurque o projeto.
+2. Crie um branch para sua contribuição (git checkout -b feature-mycontribution).
+3. Faça as alterações desejadas no código.
+4. Confirme suas alterações (git commit -m 'MyContribution: Adicionando novo recurso').
+5. Envie o branch para seu repositório Fork (git push origin feature-mycontribution).
+6. Abra uma solicitação pull no branch principal do projeto original. Descreva as alterações e aguarde a revisão e discussão da comunidade.
+
+Valorizamos verdadeiramente o seu interesse em contribuir para o projeto. Juntos, podemos torná-lo ainda melhor!
 
 ## License
 
@@ -201,7 +212,26 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Para entrar em contato, envie um e-mail para [seu-email@example.com](mailto:seu-email@example.com).
+Para entrar em contato, envie um e-mail para [gersonrodriguessantos8@gmail.com](mailto:gersonrodriguessantos8@gmail.com).
+
+<p align="center">
+
+ <a href="https://twitter.com/gersonrs3" target="_blank" >
+     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-9cf?logo=Twitter&logoColor=white"></a>
+
+  <a href="https://instagram.com/gersonrsantos" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-ff2b8e?logo=Instagram&logoColor=white"></a>
+
+  <a href="https://www.linkedin.com/in/gersonrsantos/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white"></a>
+
+  <a href="https://t.me/gersonrsantos" target="_blank" >
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white"></a>
+
+  <a href="mailto:gersonrodriguessantos8@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white"></a>
+
+</p>
 
 ## Acknowledgments
 
