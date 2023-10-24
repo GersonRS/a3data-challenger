@@ -1,0 +1,30 @@
+.
+├── deploy.sh
+├── Dockerfile
+├── main.py
+├── models
+│   ├── ml
+│   │   ├── classifier.py
+│   │   ├── iris_dt_v2.joblib
+│   │   ├── main.ipynb
+│   │   ├── __pycache__
+│   │   └── train.py
+│   └── schemas
+│       ├── iris.py
+│       └── __pycache__
+├── README.md
+├── requirements.txt
+├── routes
+│   ├── home.py
+│   ├── __pycache__
+│   └── v1
+│       ├── iris_predict.py
+│       └── __pycache__
+├── saida.txt
+└── tests
+    ├── __init__.py
+    ├── load_test.py
+    ├── __pycache__
+    └── test_response.py
+
+11 directories, 16 files
