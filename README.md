@@ -102,7 +102,7 @@ http://localhost:80/docs
 Agora, a aplicação estará em execução dentro do contêiner Docker. Você pode acessá-la em http://localhost:80/docs para fazer previsões por meio da API.
 
 
-### 4. Try out the post /predict method
+### 4. Experimente o método post/predict
 ```
 curl -X POST "http://localhost/v1/iris/predict" -H\
  "accept: application/json"\
